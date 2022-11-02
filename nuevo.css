@@ -1,0 +1,27 @@
+img{
+    width: 100px;
+    border-radius: 20px;
+    border-style: solid;
+    color: blueviolet;
+}
+h3 {
+    font-size: 35px;
+    color: red;
+    display: inline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    height: 92px;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: 50% 100%;
+    width: 272px;
+}
+input{
+    width:10cm ;
+    max-width:  8cm;
+    border-width: medium;
+  border-style: double;
+  border-color: coral;
+   
+}

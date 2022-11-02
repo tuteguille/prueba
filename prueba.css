@@ -1,0 +1,24 @@
+#hola{
+    color: aliceblue;
+    padding: 10px;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.rectangulo{
+    padding: 5px;
+    margin: 5px;
+}
+.px {
+    background-color: blueviolet;
+    width: 200px;
+}
+.vw{
+    background-color: yellowgreen;
+    width: 20vw;
+}
+.em{
+    width: 15em;
+    font-size: 1,5em;
+    background-color: cornflowerblue;
+}
